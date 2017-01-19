@@ -10,6 +10,6 @@
 let n = Int(readLine()!)!
 // input: an array of Integer.
 let numbers = readLine()!.characters.split(separator: " ").map { Int(String($0))! }
-// Sum up with reduce function.
+// Sum with reduce function.
 let sum = numbers.reduce(0, +)
 print(sum)
