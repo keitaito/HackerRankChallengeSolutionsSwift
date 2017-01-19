@@ -5,6 +5,9 @@
       location = "group:DiagonalDifference/DiagonalDifference.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:AVeryBigSum/AVeryBigSum.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:CompareTheTriplets/CompareTheTriplets.xcodeproj">
    </FileRef>
    <FileRef
