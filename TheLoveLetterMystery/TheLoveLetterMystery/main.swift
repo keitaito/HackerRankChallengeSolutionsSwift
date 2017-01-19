@@ -6,6 +6,8 @@
 //  Copyright © 2017 Keita Ito. All rights reserved.
 //
 
+// https://www.hackerrank.com/challenges/the-love-letter-mystery
+
 let t = Int(readLine()!)!
 var inputs = [String]()
 
