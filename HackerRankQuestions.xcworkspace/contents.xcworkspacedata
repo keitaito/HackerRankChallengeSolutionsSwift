@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:AppleAndOrange/AppleAndOrange.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:DesignerPDFViewer/DesignerPDFViewer.xcodeproj">
    </FileRef>
    <FileRef
