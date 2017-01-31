@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:BetweenTwoSets/BetweenTwoSets.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Kangaroo/Kangaroo.xcodeproj">
    </FileRef>
    <FileRef
