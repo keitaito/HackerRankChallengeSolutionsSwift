@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:BonAppetit/BonAppetit.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:DivisibleSumPairs/DivisibleSumPairs.xcodeproj">
    </FileRef>
    <FileRef
