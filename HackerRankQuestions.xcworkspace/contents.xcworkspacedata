@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:UtopianTree/UtopianTree.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:SockMerchant/SockMerchant.xcodeproj">
    </FileRef>
    <FileRef
