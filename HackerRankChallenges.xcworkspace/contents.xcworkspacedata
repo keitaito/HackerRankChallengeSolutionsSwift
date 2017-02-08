@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:SuperReducedString/SuperReducedString.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:AngryProfessor/AngryProfessor.xcodeproj">
    </FileRef>
    <FileRef
