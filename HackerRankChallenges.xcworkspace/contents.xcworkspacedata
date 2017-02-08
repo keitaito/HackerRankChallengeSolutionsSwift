@@ -2,63 +2,63 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:SuperReducedString/SuperReducedString.xcodeproj">
+      location = "group:Challenges/SuperReducedString/SuperReducedString.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:AngryProfessor/AngryProfessor.xcodeproj">
+      location = "group:Challenges/AngryProfessor/AngryProfessor.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:UtopianTree/UtopianTree.xcodeproj">
+      location = "group:Challenges/AppleAndOrange/AppleAndOrange.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:SockMerchant/SockMerchant.xcodeproj">
+      location = "group:Challenges/BetweenTwoSets/BetweenTwoSets.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:BonAppetit/BonAppetit.xcodeproj">
+      location = "group:Challenges/BonAppetit/BonAppetit.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:DivisibleSumPairs/DivisibleSumPairs.xcodeproj">
+      location = "group:Challenges/DivisibleSumPairs/DivisibleSumPairs.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:BetweenTwoSets/BetweenTwoSets.xcodeproj">
+      location = "group:Challenges/Kangaroo/Kangaroo.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Kangaroo/Kangaroo.xcodeproj">
+      location = "group:Challenges/SockMerchant/SockMerchant.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:AppleAndOrange/AppleAndOrange.xcodeproj">
+      location = "group:Challenges/UtopianTree/UtopianTree.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:DesignerPDFViewer/DesignerPDFViewer.xcodeproj">
+      location = "group:Challenges/AVeryBigSum/AVeryBigSum.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:MiniMaxSum/MiniMaxSum.xcodeproj">
+      location = "group:Challenges/CircularArrayRotation/CircularArrayRotation.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:CircularArrayRotation/CircularArrayRotation.xcodeproj">
+      location = "group:Challenges/CompareTheTriplets/CompareTheTriplets.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:TimeConversion/TimeConversion.xcodeproj">
+      location = "group:Challenges/DesignerPDFViewer/DesignerPDFViewer.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Staircase/Staircase.xcodeproj">
+      location = "group:Challenges/DiagonalDifference/DiagonalDifference.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:PlusMinus/PlusMinus.xcodeproj">
+      location = "group:Challenges/MiniMaxSum/MiniMaxSum.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:DiagonalDifference/DiagonalDifference.xcodeproj">
+      location = "group:Challenges/PlusMinus/PlusMinus.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:AVeryBigSum/AVeryBigSum.xcodeproj">
+      location = "group:Challenges/SimpleArraySum/SimpleArraySum.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:CompareTheTriplets/CompareTheTriplets.xcodeproj">
+      location = "group:Challenges/Staircase/Staircase.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:SimpleArraySum/SimpleArraySum.xcodeproj">
+      location = "group:Challenges/TheLoveLetterMystery/TheLoveLetterMystery.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:TheLoveLetterMystery/TheLoveLetterMystery.xcodeproj">
+      location = "group:Challenges/TimeConversion/TimeConversion.xcodeproj">
    </FileRef>
 </Workspace>
