@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ChallengeSolutions/AngryProfessor/AngryProfessor.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/AppleAndOrange/AppleAndOrange.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/AVeryBigSum/AVeryBigSum.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/BetweenTwoSets/BetweenTwoSets.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/BonAppetit/BonAppetit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/CircularArrayRotation/CircularArrayRotation.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/CompareTheTriplets/CompareTheTriplets.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/DesignerPDFViewer/DesignerPDFViewer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/DiagonalDifference/DiagonalDifference.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/DivisibleSumPairs/DivisibleSumPairs.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/Kangaroo/Kangaroo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/MiniMaxSum/MiniMaxSum.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/PlusMinus/PlusMinus.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/SimpleArraySum/SimpleArraySum.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/SockMerchant/SockMerchant.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/Staircase/Staircase.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/SuperReducedString/SuperReducedString.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/TheLoveLetterMystery/TheLoveLetterMystery.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/TimeConversion/TimeConversion.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ChallengeSolutions/UtopianTree/UtopianTree.xcodeproj">
+   </FileRef>
+</Workspace>
