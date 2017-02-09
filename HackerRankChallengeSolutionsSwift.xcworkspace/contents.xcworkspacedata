@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "container:"
+      name = "Strings">
+      <FileRef
+         location = "group:ChallengeSolutions/Strings/CamelCase/CamelCase.xcodeproj">
+      </FileRef>
+   </Group>
    <FileRef
       location = "group:ChallengeSolutions/AngryProfessor/AngryProfessor.xcodeproj">
    </FileRef>
