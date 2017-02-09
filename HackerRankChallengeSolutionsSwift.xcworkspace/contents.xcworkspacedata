@@ -5,6 +5,9 @@
       location = "container:"
       name = "Strings">
       <FileRef
+         location = "group:ChallengeSolutions/Strings/SuperReducedString/SuperReducedString.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:ChallengeSolutions/Strings/CamelCase/CamelCase.xcodeproj">
       </FileRef>
    </Group>
@@ -55,9 +58,6 @@
    </FileRef>
    <FileRef
       location = "group:ChallengeSolutions/Staircase/Staircase.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:ChallengeSolutions/SuperReducedString/SuperReducedString.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:ChallengeSolutions/TheLoveLetterMystery/TheLoveLetterMystery.xcodeproj">
