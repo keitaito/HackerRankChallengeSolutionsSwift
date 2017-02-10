@@ -5,6 +5,9 @@
       location = "container:"
       name = "Strings">
       <FileRef
+         location = "group:ChallengeSolutions/Strings/Pangrams/Pangrams.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:ChallengeSolutions/Strings/SuperReducedString/SuperReducedString.xcodeproj">
       </FileRef>
       <FileRef
