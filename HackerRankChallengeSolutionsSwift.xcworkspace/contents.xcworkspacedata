@@ -5,6 +5,9 @@
       location = "container:"
       name = "Strings">
       <FileRef
+         location = "group:ChallengeSolutions/Strings/AlternatingCharacters/AlternatingCharacters.xcodeproj">
+      </FileRef>
+      <FileRef
          location = "group:ChallengeSolutions/Strings/Gemstones/Gemstones.xcodeproj">
       </FileRef>
       <FileRef
