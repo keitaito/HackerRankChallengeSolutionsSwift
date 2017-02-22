@@ -8,5 +8,29 @@
 
 import Foundation
 
-print("Hello, World!")
+func numberOfConsecutiveCharactersToRemove(from string: String) -> Int {
+    var count = 0
+    var stringIndex = string.startIndex
+    for _ in 0..<string.characters.count - 1 {
+        let currentCharacter = string[stringIndex]
+        let nextIndex = string.index(after: stringIndex)
+        let nextCharacter = string[nextIndex]
+        
+        if currentCharacter == nextCharacter {
+            count += 1
+        }
+        
+        stringIndex = nextIndex
+    }
+    
+    return count
+}
+
+let numberOfTestCase = Int(readLine()!)!
+
+for i in 0..<numberOfTestCase {
+    let string = readLine()!
+    let result = numberOfConsecutiveCharactersToRemove(from: string)
+    print(result)
+}
 
